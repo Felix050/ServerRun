@@ -33,7 +33,7 @@ void Update()
             Cursor.lockState = CursorLockMode.Locked;
             abrirGUI = false;
         }
-        if (Input.GetKeyDown ("c") && abrirGUI == true)
+        if (Input.GetKeyDown ("escape") && abrirGUI == true)
         {
             abrirGUI = false;
             Cursor.lockState = CursorLockMode.Locked;

@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: d7c06b4d5ad90da42aa2678e2421b1c1, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: fec6c60c44d14d142b78c611cef47a14, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.5631218, g: 0.6226748, b: 0.6441188, a: 1}
+  m_IndirectSpecularColor: {r: 0.086801745, g: 0.10545892, b: 0.12389002, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1415,7 +1415,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press 'E' to Enter Code
+  m_Text: Apert 'E' para inserir o IP
 --- !u!222 &51822673
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7758,7 +7758,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 1585035796}
-  distancia: 3
+  distancia: 2
 --- !u!1001 &325652942
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10592,7 +10592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press 'E' to Enter Code
+  m_Text: "Aperte 'E' para inserir o c\xF3digo"
 --- !u!222 &459086353
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17485,7 +17485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 1923827083}
-  distancia: 3
+  distancia: 2
 --- !u!4 &748972020 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3916496462391171717, guid: 80cbb9df11318004a95e198e69e78a10,
@@ -28599,7 +28599,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 253814193}
-  distancia: 3
+  distancia: 2
 --- !u!4 &1187597266 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2478961553079219844, guid: b4f729d9618a65543baedfac3b0a7311,
@@ -39082,7 +39082,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 91711865}
-  distancia: 3
+  distancia: 2
 --- !u!4 &1622419349 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4470322342332350, guid: 2d613286f37c7964b8998d01106aad6a,
@@ -51812,7 +51812,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1130724446923921}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.9, z: 0}
+  m_LocalPosition: {x: -12.55, y: 0.9, z: 25.17}
   m_LocalScale: {x: 1, y: 0.9, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -56892,7 +56892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 266947429}
-  distancia: 3
+  distancia: 2
 --- !u!1 &6454320196026504161
 GameObject:
   m_ObjectHideFlags: 0
